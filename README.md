@@ -1,2 +1,7 @@
 # Online-Examination
-The project should be capable of the following functionalities.  Login Update Profile and Password Selecting answers for MCQs Timer and auto submit Closing session and Logout
+The project should be capable of the following functionalities.  
+1)Login 
+2)Update Profile and Password 
+3)Selecting answers for MCQs 
+4)Timer and auto submit 
+5)Closing session and Logout
